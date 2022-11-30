@@ -2,4 +2,4 @@
 
 ### deployed in this URL:
 
-[ DAEK-MODE] (https://mina-html-css-tea-station.netlify.app )
+[ DAEK-MODE] (https://mina-dark-mode.netlify.app )
